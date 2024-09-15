@@ -1,0 +1,175 @@
+2024.07.02 07:22:28.184 Debug 154996278: request for authorization token
+2024.07.02 07:22:28.696 Debug 154996278: token for authorization received (server: wss://rtapi-jb.excalls.mobi/rtapi/mt5/trial9)
+2024.07.02 07:22:29.566 Debug 154996278: RetailEvents: success websocket connection
+2024.07.02 07:22:30.477 Debug 154996278: RetailQuotes: success websocket connection
+2024.07.02 07:22:30.479 service 154996278: request get account info
+2024.07.02 07:22:30.480 service 154996278: request get user info
+2024.07.02 07:22:30.480 service 154996278: request get list of orders
+2024.07.02 07:22:30.481 service 154996278: request get list of instruments
+2024.07.02 07:22:31.685 Trade 154996278: success get user info
+2024.07.02 07:22:31.685 Trade 154996278: success get account info
+2024.07.02 07:22:31.753 Trade 154996278: success get list of instruments
+2024.07.02 07:22:31.753 Debug 154996278: account info balance: 10,000.00 USD leverage: 1000 trade_enabled: true
+2024.07.02 07:22:31.771 service 154996278: request get orders history
+2024.07.02 07:22:32.419 Trade 154996278: success get orders history
+2024.07.02 07:23:42.587 user_action 154996278: user clicks open buy 0.01 lots TSLAm at 228.75 hmr 1:20
+2024.07.02 07:23:42.613 trade 154996278: request open buy 0.01 lots TSLAm at 228.75 hmr 1:20
+2024.07.02 07:23:43.036 Debug 154996278: upd account info balance: 10,000.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:23:43.039 Debug 154996278: upd account info balance: 10,000.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:23:43.099 Trade 154996278: success open buy 0.01 lots TSLAm at 228.75 hmr 1:20
+2024.07.02 07:24:31.904 Debug 154996278: upd account info balance: 10,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:24:31.905 Debug 154996278: upd account info balance: 10,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:24:38.472 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:24:38.473 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:24:41.164 user_action 154996278: user clicks close all orders
+2024.07.02 07:24:58.404 user_action 154996278: user clicks open buy 0.01 lots TSLAm at 228.82 hmr 1:20
+2024.07.02 07:24:58.425 trade 154996278: request open buy 0.01 lots TSLAm at 228.82 hmr 1:20
+2024.07.02 07:24:59.246 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:24:59.247 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:24:59.273 Trade 154996278: success open buy 0.01 lots TSLAm at 228.82 hmr 1:20
+2024.07.02 07:25:06.659 user_action 154996278: user clicks open buy 0.01 lots TSLAm at 228.75 hmr 1:20
+2024.07.02 07:25:06.675 trade 154996278: request open buy 0.01 lots TSLAm at 228.75 hmr 1:20
+2024.07.02 07:25:07.042 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:25:07.042 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:25:07.066 Trade 154996278: success open buy 0.01 lots TSLAm at 228.75 hmr 1:20
+2024.07.02 07:25:32.751 user_action 154996278: user clicks open buy 0.01 lots TSLAm at 228.78 hmr 1:20
+2024.07.02 07:25:32.773 trade 154996278: request open buy 0.01 lots TSLAm at 228.78 hmr 1:20
+2024.07.02 07:25:33.184 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:25:33.189 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:25:33.204 Trade 154996278: success open buy 0.01 lots TSLAm at 228.78 hmr 1:20
+2024.07.02 07:25:56.314 user_action 154996278: user clicks open buy 0.01 lots TSLAm at 228.85 hmr 1:20
+2024.07.02 07:25:56.335 trade 154996278: request open buy 0.01 lots TSLAm at 228.85 hmr 1:20
+2024.07.02 07:25:56.735 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:25:56.740 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:25:56.774 Trade 154996278: success open buy 0.01 lots TSLAm at 228.85 hmr 1:20
+2024.07.02 07:26:07.131 user_action 154996278: user clicks open buy 0.01 lots XPDUSDm at 1,023.71 hmr 1:100
+2024.07.02 07:26:07.151 trade 154996278: request open buy 0.01 lots XPDUSDm at 1,023.71 hmr 1:100
+2024.07.02 07:26:07.517 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:26:07.519 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:26:07.548 Trade 154996278: success open buy 0.01 lots XPDUSDm at 1,023.71 hmr 1:100
+2024.07.02 07:26:29.250 application in background
+2024.07.02 07:27:08.285 application in foreground
+2024.07.02 07:27:10.120 Debug 154996278: request for authorization token
+2024.07.02 07:27:10.843 Debug 154996278: token for authorization received (server: wss://rtapi-jb.excalls.mobi/rtapi/mt5/trial9)
+2024.07.02 07:27:11.914 Debug 154996278: RetailEvents: success websocket connection
+2024.07.02 07:27:12.839 Debug 154996278: RetailQuotes: success websocket connection
+2024.07.02 07:27:12.840 service 154996278: request get user info
+2024.07.02 07:27:12.840 service 154996278: request get account info
+2024.07.02 07:27:12.841 service 154996278: request get list of orders
+2024.07.02 07:27:12.842 service 154996278: request get list of instruments
+2024.07.02 07:27:13.746 Trade 154996278: success get user info
+2024.07.02 07:27:13.747 Trade 154996278: success get account info
+2024.07.02 07:27:13.958 Trade 154996278: success get list of orders
+2024.07.02 07:27:14.054 Trade 154996278: success get list of instruments
+2024.07.02 07:27:14.055 Debug 154996278: account info balance: 9,010.00 USD leverage: 1000 trade_enabled: true
+2024.07.02 07:27:14.074 service 154996278: request get orders history
+2024.07.02 07:27:14.534 Trade 154996278: success get orders history
+2024.07.02 07:27:17.918 application in background
+2024.07.02 07:27:55.082 application in foreground
+2024.07.02 07:27:56.823 Debug 154996278: request for authorization token
+2024.07.02 07:27:57.513 Debug 154996278: token for authorization received (server: wss://rtapi-jb.excalls.mobi/rtapi/mt5/trial9)
+2024.07.02 07:27:58.404 Debug 154996278: RetailEvents: success websocket connection
+2024.07.02 07:27:59.425 Debug 154996278: RetailQuotes: success websocket connection
+2024.07.02 07:27:59.427 service 154996278: request get account info
+2024.07.02 07:27:59.428 service 154996278: request get user info
+2024.07.02 07:27:59.429 service 154996278: request get list of orders
+2024.07.02 07:27:59.430 service 154996278: request get list of instruments
+2024.07.02 07:28:00.640 Trade 154996278: success get user info
+2024.07.02 07:28:00.716 Trade 154996278: success get list of instruments
+2024.07.02 07:28:00.716 Debug 154996278: account info balance: 9,010.00 USD leverage: 1000 trade_enabled: true
+2024.07.02 07:28:00.736 service 154996278: request get orders history
+2024.07.02 07:28:01.246 Trade 154996278: success get orders history
+2024.07.02 07:28:59.603 application in background
+2024.07.02 07:29:04.225 application in foreground
+2024.07.02 07:29:04.244 application in background
+2024.07.02 07:29:04.607 Debug 154996278: request for authorization token
+2024.07.02 07:29:04.872 Debug 154996278: token for authorization received (server: wss://rtapi-jb.excalls.mobi/rtapi/mt5/trial9)
+2024.07.02 07:29:05.827 Debug 154996278: RetailEvents: success websocket connection
+2024.07.02 07:29:06.758 Debug 154996278: RetailQuotes: success websocket connection
+2024.07.02 07:29:06.762 service 154996278: request get account info
+2024.07.02 07:29:06.762 service 154996278: request get user info
+2024.07.02 07:29:06.762 service 154996278: request get list of orders
+2024.07.02 07:29:06.763 service 154996278: request get list of instruments
+2024.07.02 07:29:07.737 Trade 154996278: success get user info
+2024.07.02 07:29:07.749 Trade 154996278: success get list of orders
+2024.07.02 07:29:08.338 Trade 154996278: success get list of instruments
+2024.07.02 07:29:08.347 Debug 154996278: account info balance: 9,010.00 USD leverage: 1000 trade_enabled: true
+2024.07.02 07:29:08.507 service 154996278: request get orders history
+2024.07.02 07:29:09.426 application in foreground
+2024.07.02 07:29:09.467 Trade 154996278: success get orders history
+2024.07.02 07:29:19.441 user_action 154996278: user clicks open buy 0.01 lots XPDUSDm at 1,024.02 hmr 1:100
+2024.07.02 07:29:19.467 trade 154996278: request open buy 0.01 lots XPDUSDm at 1,024.02 hmr 1:100
+2024.07.02 07:29:19.890 Trade 154996278: success open buy 0.01 lots XPDUSDm at 1,024.02 hmr 1:100
+2024.07.02 07:29:19.896 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:29:19.899 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:29:55.591 user_action 154996278: user clicks open buy 0.01 lots XPDUSDm at 1,023.73 hmr 1:100
+2024.07.02 07:29:55.614 trade 154996278: request open buy 0.01 lots XPDUSDm at 1,023.73 hmr 1:100
+2024.07.02 07:29:56.076 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:29:56.078 Debug 154996278: upd account info balance: 9,010.00 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:29:56.088 Trade 154996278: success open buy 0.01 lots XPDUSDm at 1,023.73 hmr 1:100
+2024.07.02 07:30:17.486 trade 154996278: request close all orders XPDUSDm
+2024.07.02 07:30:17.905 Debug 154996278: upd account info balance: 8,997.12 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:30:17.906 Debug 154996278: upd account info balance: 8,997.12 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:30:17.907 Debug 154996278: upd account info balance: 8,983.93 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:30:17.908 Debug 154996278: upd account info balance: 8,983.93 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:30:17.922 service 154996278: request get orders history
+2024.07.02 07:30:17.950 service 154996278: request get orders history
+2024.07.02 07:30:17.969 Trade 154996278: success close all orders XPDUSDm
+2024.07.02 07:30:17.972 Debug 154996278: upd account info balance: 8,971.03 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:30:18.021 service 154996278: request get orders history
+2024.07.02 07:30:18.047 Debug 154996278: upd account info balance: 8,971.03 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:30:18.247 Trade 154996278: success get orders history
+2024.07.02 07:30:18.258 Trade 154996278: success get orders history
+2024.07.02 07:30:18.323 Trade 154996278: success get orders history
+2024.07.02 07:31:14.517 user_action 154996278: user clicks open buy 0.01 lots TSLAm at 229.07 hmr 1:5
+2024.07.02 07:31:14.535 trade 154996278: request open buy 0.01 lots TSLAm at 229.07 hmr 1:5
+2024.07.02 07:31:14.964 Debug 154996278: upd account info balance: 8,971.03 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:14.969 Debug 154996278: upd account info balance: 8,971.03 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:14.990 Trade 154996278: success open buy 0.01 lots TSLAm at 229.07 hmr 1:5
+2024.07.02 07:31:25.772 trade 154996278: request close all orders TSLAm
+2024.07.02 07:31:26.197 Debug 154996278: upd account info balance: 8,971.03 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.205 Debug 154996278: upd account info balance: 8,971.24 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.209 Debug 154996278: upd account info balance: 8,971.24 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.210 Debug 154996278: upd account info balance: 8,971.38 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.232 service 154996278: request get orders history
+2024.07.02 07:31:26.232 service 154996278: request get orders history
+2024.07.02 07:31:26.338 Debug 154996278: upd account info balance: 8,971.38 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.339 Debug 154996278: upd account info balance: 8,971.38 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.340 Debug 154996278: upd account info balance: 8,971.55 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.342 Debug 154996278: upd account info balance: 8,971.77 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.347 Debug 154996278: upd account info balance: 8,971.77 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.347 Debug 154996278: upd account info balance: 8,971.88 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.349 Trade 154996278: success close all orders TSLAm
+2024.07.02 07:31:26.365 service 154996278: request get orders history
+2024.07.02 07:31:26.366 service 154996278: request get orders history
+2024.07.02 07:31:26.469 service 154996278: request get orders history
+2024.07.02 07:31:26.574 Debug 154996278: upd account info balance: 8,971.77 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.575 Debug 154996278: upd account info balance: 8,971.77 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:31:26.589 service 154996278: request get orders history
+2024.07.02 07:31:26.720 Trade 154996278: success get orders history
+2024.07.02 07:31:26.722 Trade 154996278: success get orders history
+2024.07.02 07:31:26.782 Trade 154996278: success get orders history
+2024.07.02 07:31:26.937 Trade 154996278: success get orders history
+2024.07.02 07:31:26.955 Trade 154996278: success get orders history
+2024.07.02 07:31:27.016 Trade 154996278: success get orders history
+2024.07.02 07:32:03.003 application in background
+2024.07.02 07:32:24.833 application in foreground
+2024.07.02 07:32:25.467 Debug 154996278: request for authorization token
+2024.07.02 07:32:25.926 Debug 154996278: token for authorization received (server: wss://rtapi-jb.excalls.mobi/rtapi/mt5/trial9)
+2024.07.02 07:32:26.846 Debug 154996278: RetailEvents: success websocket connection
+2024.07.02 07:32:27.699 Debug 154996278: RetailQuotes: success websocket connection
+2024.07.02 07:32:27.700 service 154996278: request get account info
+2024.07.02 07:32:27.700 service 154996278: request get user info
+2024.07.02 07:32:27.700 service 154996278: request get list of orders
+2024.07.02 07:32:27.701 service 154996278: request get list of instruments
+2024.07.02 07:32:28.626 Trade 154996278: success get user info
+2024.07.02 07:32:28.678 Trade 154996278: success get account info
+2024.07.02 07:32:28.734 Trade 154996278: success get list of orders
+2024.07.02 07:32:28.982 Trade 154996278: success get list of instruments
+2024.07.02 07:32:28.983 Debug 154996278: account info balance: 8,971.77 USD leverage: 1000 trade_enabled: true
+2024.07.02 07:32:28.990 service 154996278: request get orders history
+2024.07.02 07:32:29.398 Trade 154996278: success get orders history
+2024.07.02 07:32:36.188 Debug 154996278: upd account info balance: 7,971.77 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:32:36.189 Debug 154996278: upd account info balance: 7,971.77 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:33:15.631 Debug 154996278: upd account info balance: 8,971.77 USD leverage: 1:1000 trade_enabled: true
+2024.07.02 07:33:15.646 Debug 154996278: upd account info balance: 8,971.77 USD leverage: 1:1000 trade_enabled: true
